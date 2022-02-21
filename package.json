@@ -1,0 +1,19 @@
+{
+  "name": "girls-ws-mohammd-alhabil",
+  "version": "1.0.0",
+  "description": "node girls",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSG-G11/node-girls-ws-mohammd-alhabil.git"
+  },
+  "author": "mohammad alhabil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSG-G11/node-girls-ws-mohammd-alhabil/issues"
+  },
+  "homepage": "https://github.com/GSG-G11/node-girls-ws-mohammd-alhabil#readme"
+}
